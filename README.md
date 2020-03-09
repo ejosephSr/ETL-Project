@@ -19,7 +19,7 @@ https://www.kaggle.com/unsdsn/world-happiness#2016.csv and here: https://www.kag
 
 ### created a database connection to load the dataframe into a postgres database. 
 
-![](Image/connection.png)
+
 
 ### The below image is a summary of the entire ETL process from downloading the CSV, manipulating the data, cleaning, remaning and transferring to a postgres database.
 
